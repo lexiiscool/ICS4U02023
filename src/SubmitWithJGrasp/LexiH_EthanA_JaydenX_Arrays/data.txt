@@ -1,0 +1,60 @@
+Terrible Joe
+0
+0
+0
+500
+0
+LeBron James
+38450
+10371
+10606
+53834
+0.649
+Wonder Minute
+30
+10
+15
+10
+1
+Negative Nancy
+-31234
+-3123
+-5425
+-2334
+-0.85
+Magic Johnson
+17707
+10141
+6559
+33245
+0.74
+Rick Carlisle
+422
+201
+141
+1461
+0.739
+Kawhi Leonard
+11992
+1824
+3932
+19320
+0.737
+Larry Bird
+21791
+5695
+8974
+34443
+0.736
+Festus Ezeli
+712
+63
+725
+2394
+0.735
+Michael Jordan
+32292
+5633
+6672
+41011
+0.649
